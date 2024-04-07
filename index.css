@@ -1,0 +1,83 @@
+body{
+	background-color: #888888;
+	margin: 0px;
+	padding: 0px;
+	}
+header{
+	text-align: center;
+	background-color: #888888; 
+	border-radius: 0px 0px 20px 20px;
+	box-shadow: 2.5px 5px #696969;
+	border-style: ridge;
+	border-top-style: none;
+}
+
+
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+  }
+  
+
+#info{
+	text-align: center;
+}
+
+form{
+	margin: 10px 25px;
+}
+
+/* table {
+	margin: auto;
+	text-align: center;
+	width: 75%;
+} */
+
+/*
+#cnt1,#cnt2,#cnt3,#cnt4,#cnt5 {
+	display: none;
+}
+#rtcnt1,#rtcnt2,#rtcnt3,#rtcnt4,#rtcnt5 {
+	display: none;
+}
+*/
+#content-questions{
+	margin: 10px 25px;
+}
+
+table, th, td{
+	border: 1px solid black;
+}
+		
+#content-table{
+	margin: 0px 25px;
+}
+
+
+
+
+
+#buttons {
+	text-align: center;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	height: auto;
+
+	background-color: #888888; 
+	border-radius: 20px 20px 0px 0px;
+	border-style: ridge;
+	border-bottom-style: none;
+	text-align: center;
+	width: 100%;
+}
+footer ul li{
+	list-style: none;
+	display: inline;
+	padding: 0px 5px;
+}
+
+/* #map { height: 180px; } */
